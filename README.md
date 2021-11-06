@@ -1,5 +1,5 @@
 ### Hi there 👋
-<span style="color:red">*DISCLAIMER:*</span> I am employeed by Oracle, however, all code found in this repository is proof-of-concept, used primarily for demonstration purposes, and is **not** supported by Oracle.  The code here should **not** be used, as is, for Production purposes... otherwise, enjoy!
+<span style="color:red">*DISCLAIMER:*</span> I am employed by Oracle, however, all code found in this repository is proof-of-concept, used primarily for demonstration purposes, and is **not** supported by Oracle.  The code here should **not** be used, as is, for Production purposes... otherwise, enjoy!
 
 #### Yet Another Repository...
 You may have stumbled here on accident or directed here after a demonstration, either way, thank you for browsing.  What you will find here is code related to my exploration and obsession with automation, specifically around Oracle Cloud Infrastructure databases.  While, as a DBA, shell-scripting is more of my forte, I am attempting to learn other languages; please don't judge too harshly.. feedback to improve the code will be appreciated.

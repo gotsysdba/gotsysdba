@@ -5,9 +5,9 @@
 You may have stumbled here on accident or directed here after a demonstration, either way, thank you for browsing.  What you will find here is code related to my exploration and obsession with automation, specifically around Oracle Cloud Infrastructure databases.  While, as a DBA, shell-scripting is more of my forte, I am attempting to learn other languages; please don't judge too harshly.. feedback to improve the code will be appreciated.
 
 #### Who are you? Who are you?
-An Oracle DBA, a self-proclaimed "citizen developer", an amature brewer and known to over use the "dot-dot-dot"...  
+An Oracle DBA, a self-proclaimed "citizen developer", an amature brewer and known over-user of the "dot-dot-dot"...  
 
-- 🌱 I’m currently learning python, terraform, Oracle Cloud Infrastucture resources and howto BIAB.
+- 🌱 I’m currently learning python, terraform, Oracle Cloud Infrastucture resources and how-to BIAB.
 
 <!--
 **ukjola/ukjola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
